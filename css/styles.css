@@ -17,8 +17,7 @@ body{
 	background: var(--fourth);
 	margin: 0px;
 	width: 100%;
-	font-family:sans-serif;
-	font-family: balsamiqsans-regular;
+	font-family:balsamiqsans-regular,serif,sans-serif;
 }
 .row{
 	display: flex;
